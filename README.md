@@ -22,6 +22,4 @@ one-tap SOS alerts with real-time location sharing** to emergency contacts.
 
 | Home Screen | SOS Triggered |
 |------------|--------------|
-| (<img width="448" height="842" alt="Screenshot 2026-01-05 151657" src="https://github.com/user-attachments/assets/c5f9882a-8a40-4883-a2c2-143289c76ed5" />
 
- |
