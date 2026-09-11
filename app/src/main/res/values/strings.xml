@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SERA</string>
+    <string name="app_tagline">Smart Emergency Response</string>
+    <string name="sos">SOS</string>
+    <string name="call_sms">CALL EMERGENCY CONTACT</string>
+    <string name="cancel_sos">CANCEL SOS</string>
+</resources>
