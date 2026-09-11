@@ -1,5 +1,5 @@
 # SERA-app
-Smart Emergency Response Assistance    One-tap SOS with location sharing
+Smart Emergency Response Assistant — One-tap SOS and emergency assistance with location sharing
 # 🚨 SERA – Smart Emergency Response Assistance
 
 SERA is a mobile emergency assistance application designed to provide
