@@ -18,8 +18,20 @@ one-tap SOS alerts with real-time location sharing** to emergency contacts.
 - Google Fused Location Provider
 - SMS Manager API
 
-## 📸 Screenshots
+## 📱 How It Works
+1. User presses SOS button
+2. App fetches live GPS location
+3. Sends SMS with Google Maps link
+4. Shares periodic updates
+5. Optional emergency calling
 
-| Home Screen | SOS Triggered |
-|------------|--------------|
+## 📂 Project Structure
+- `MainActivity.java` – UI & SOS logic
+- `SOSService.java` – Background location service
+- `activity_main.xml` – UI layout
 
+## 🚀 Future Enhancements
+- Firebase backend
+- Live tracking dashboard
+- Police & ambulance integration
+- iOS version
